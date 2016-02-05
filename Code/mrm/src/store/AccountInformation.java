@@ -1,0 +1,1 @@
+package store;public class AccountInformation{      public static final String [] ACCOUNT_NAMES =         { "CLUB MEMBER", "GUEST","TEST"};               public static final String [] ACCOUNT_ABBREVIATIONS =        { "CLUB MEM", "GUEST","TEST"};}    

@@ -1,0 +1,1 @@
+package mrm.physical;import mrm.MRM;import mrm.codeOperation.Operations;import store.Movies;public class OperatorPanel{       public OperatorPanel(MRM mrm)    {        this.mrm = mrm;    }           public Movies movieinventory()    {        return Operations.getInstance().movieinventory();    }           private MRM mrm;    }
